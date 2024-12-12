@@ -10,13 +10,13 @@ The problem we aim to solve is the time-consuming and also the inconsistent of t
 
 |            Member           | Student ID |        Path        |                    Role                    |                                                       Contacts                                                      |
 | :-------------------------: | :--------: | :----------------: | :----------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
-|        Muhammad Fathan Assadad        | M002B4KY2835 |  Machine Learning  |         Machine Learning Engineer          |         [Github]()           |
-|     Ashanti Fairuza    | M002B4KX0691 |  Machine Learning  |          Machine Learning Engineer         |  [Github]()  |
-|     Annisa Risty     | M002B4KX0583 |  Machine Learning   |          Machine Learning Engineer                     |   [Github]()             |
-|    Muhhamad Syauqi Jannatan     | C002B4KY3142 |  Cloud Computing   |         DevOps Engineer, Backend Engineer          |   [Github]()    |
-|   Afnan Edsa Ramadhan   | C002B4KY0160 |  Cloud Computing|     DevOps Engineer, Backend Engineer               |   [Github]()            |
-|      Falih Naufal      | A782B4KY1385 |  Mobile Development|    Android Mobile Developer, Designer                | [Github]() |
-|      Al Hajjri Prima Saputra      | A497B4KY0309 |  Mobile Development|    Android Mobile Developer                | [Github]() |
+|        Muhammad Fathan Assadad        | M002B4KY2835 |  Machine Learning  |         Machine Learning Engineer          |         [Github](https://github.com/orgs/Capstone-C242-PS367/people/fath29)           |
+|     Ashanti Fairuza    | M002B4KX0691 |  Machine Learning  |          Machine Learning Engineer         |  [Github](https://github.com/orgs/Capstone-C242-PS367/people/ashantifairuza)  |
+|     Annisa Risty     | M002B4KX0583 |  Machine Learning   |          Machine Learning Engineer                     |   [Github](https://github.com/orgs/Capstone-C242-PS367/people/annisarsty)             |
+|    Muhhamad Syauqi Jannatan     | C002B4KY3142 |  Cloud Computing   |         DevOps Engineer, Backend Engineer          |   [Github](https://github.com/orgs/Capstone-C242-PS367/people/syauqijan)    |
+|   Afnan Edsa Ramadhan   | C002B4KY0160 |  Cloud Computing|     DevOps Engineer, Backend Engineer               |   [Github](https://github.com/orgs/Capstone-C242-PS367/people/afnanramadhan)            |
+|      Falih Naufal      | A782B4KY1385 |  Mobile Development|    Android Mobile Developer, Designer                | [Github](https://github.com/orgs/Capstone-C242-PS367/people/falihnaufal17) |
+|      Al Hajjri Prima Saputra      | A497B4KY0309 |  Mobile Development|    Android Mobile Developer                | [Github](https://github.com/orgs/Capstone-C242-PS367/people/Al-Hajjri) |
 
 ## Repositories
 
