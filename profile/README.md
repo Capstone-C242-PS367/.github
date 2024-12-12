@@ -1,5 +1,5 @@
 ## Bangkit Capstone-C242-PS367
-The documentation of <b>Finky</b> application in Bangkit Capstone Project 2024
+The documentation of <b>Finku</b> application in Bangkit Capstone Project 2024
 
 ## About
 Finku is an app for recapping income and outcome by mutation account or bank e-statement. To get started, users need to upload the mutation account or bank e-statement with image format, the system will recognize the transaction details, such as type (debt or credit), date, and amount. Before submitting the data, the user can validate the result and edit if necessary. After that user submits the form, the data will be stored to their account where users can view their monthly trends through interactive charts and summaries, with the option to send it to their email account.
