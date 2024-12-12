@@ -24,7 +24,7 @@ The problem we aim to solve is the time-consuming and also the inconsistent of t
 | :----------------: | :----------------------------------------------------------------: |
 | Mobile Development | [Github](https://github.com/Capstone-C242-PS367/finku-app) |
 |  Cloud Computing  | [Github](https://github.com/Capstone-C242-PS367/finku-api) [ML-API](https://github.com/Capstone-C242-PS367/finku-ml-api)  |
-|   Machine Learning  | [Github](https://github.com/Capstone-C242-PS367/finku-ml) (ML-API)(https://github.com/Capstone-C242-PS367/finku-ml-api)  |
+|   Machine Learning  | [Github](https://github.com/Capstone-C242-PS367/finku-ml) [ML-API](https://github.com/Capstone-C242-PS367/finku-ml-api)  |
 
 
 ## Mobile Development Documentation
